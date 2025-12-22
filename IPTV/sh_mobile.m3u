@@ -18,11 +18,8 @@ http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001017/index.m3u8?Aut
 #EXTINF:-1, 五星体育HD
 http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001018/index.m3u8?AuthInfo=nul
 
-#EXTINF:-1, 广东卫视HD
+#EXTINF:-1, 哈哈炫动HD
 http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001232/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, 山东卫视HD
-http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001128/index.m3u8?AuthInfo=nul
 
 #EXTINF:-1, 教育频道HD
 http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001268/index.m3u8?AuthInfo=nul
@@ -33,6 +30,9 @@ http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001194/index.m3u8?Aut
 #EXTINF:-1, 法治天地HD
 http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001420/index.m3u8?AuthInfo=nul
 
+#EXTINF:-1, CCTV1-HD
+http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001022/index.m3u8?AuthInfo=nul
+
 #EXTINF:-1, CCTV2-HD
 http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001220/index.m3u8?AuthInfo=nul
 
@@ -42,7 +42,7 @@ http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001186/index.m3u8?Aut
 #EXTINF:-1, CCTV4-HD
 http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001221/index.m3u8?AuthInfo=nul
 
-#EXTINF:-1, 河南卫视HD
+#EXTINF:-1, CCTV5-HD
 http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001187/index.m3u8?AuthInfo=nul
 
 #EXTINF:-1, CCTV6-HD
@@ -180,20 +180,8 @@ http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001183/index.m3u8?Aut
 #EXTINF:-1, 兵团卫视HD
 http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001066/index.m3u8?AuthInfo=nul
 
-#EXTINF:-1, 三沙卫视
-http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001185/index.m3u8?AuthInfo=nul
-
 #EXTINF:-1, 金鹰纪实HD
 http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001230/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, CETV2
-http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001226/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, CETV4
-http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001348/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, 延边卫视
-http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001470/index.m3u8?AuthInfo=nul
 
 #EXTINF:-1, 金鹰卡通HD
 http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001460/index.m3u8?AuthInfo=nul
@@ -203,45 +191,6 @@ http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001245/index.m3u8?Aut
 
 #EXTINF:-1, 百世果HD
 http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001162/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, 新闻综合
-http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001006/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, 东方卫视
-http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001008/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, 都市频道
-http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001005/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, 东方卫视
-http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001046/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, 第一财经
-http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001048/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, 五星体育
-http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001049/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, 哈哈炫动
-http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001104/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, 东方购物1
-http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001120/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, 东方购物2
-http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001121/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, 教育频道
-http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001053/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, 金色学堂
-http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001106/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, 金鹰卡通
-http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001098/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, 嘉佳卡通
-http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001227/index.m3u8?AuthInfo=nul
 
 #EXTINF:-1, 都市剧场HD
 http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001203/index.m3u8?AuthInfo=nul
@@ -269,7 +218,3 @@ http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001234/index.m3u8?Aut
 
 #EXTINF:-1, 快乐垂钓HD
 http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001235/index.m3u8?AuthInfo=nul
-
-#EXTINF:-1, CCTV1-HD
-http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001022/index.m3u8?AuthInfo=nul
-
