@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="上海卫视", 新闻综合HD
 http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001014/index.m3u8?AuthInfo=nul
 
-#EXTINF:-1 group-title="上海卫视", 东方卫视HD
+#EXTINF:-1 group-title="上海卫视", 东方卫视
 http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001013/index.m3u8?AuthInfo=nul
 
 #EXTINF:-1 group-title="上海卫视", 都市频道HD
@@ -15,7 +15,7 @@ http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001016/index.m3u8?Aut
 #EXTINF:-1 group-title="上海卫视", 第一财经HD
 http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001017/index.m3u8?AuthInfo=nul
 
-#EXTINF:-1 group-title="上海卫视", 五星体育HD
+#EXTINF:-1 group-title="上海卫视", 五星体育
 http://[2409:8087:1e59:21::11]:6610/cms001/ch00000090990000001018/index.m3u8?AuthInfo=nul
 
 #EXTINF:-1 group-title="上海卫视", 哈哈炫动HD
@@ -30,7 +30,7 @@ http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001194/index.m3u8?Aut
 #EXTINF:-1 group-title="上海卫视", 法治天地HD
 http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001420/index.m3u8?AuthInfo=nul
 
-#EXTINF:-1 group-title="中央卫视", CCTV1-HD
+#EXTINF:-1 group-title="中央卫视", CCTV1
 http://[2409:8087:1e59:21::10]:6610/cms001/ch00000090990000001022/index.m3u8?AuthInfo=nul
 
 #EXTINF:-1 group-title="中央卫视", CCTV2-HD
